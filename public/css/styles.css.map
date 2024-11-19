@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/dli/web/smaht-donor",
+	"sourceRoot": "/Users/d/web/smaht-donor",
 	"sources": [
 		"themes/dot-org-hugo-theme/assets/scss/styles.scss",
 		"themes/dot-org-hugo-theme/assets/scss/_variables.scss",

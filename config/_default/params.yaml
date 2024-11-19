@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo-b.svg"
-logo_on_black: "/img/logo-w.svg"
+logo_on_white: "/images/logo/logo.png"
+logo_on_black: "/images/logo/logo-w.png"
 custom_js: []
 custom_css: []
 
@@ -12,18 +12,18 @@ custom_css: []
 images: ["/img/social-share.png"]
 
 github:
-  repo_url: "https://github.com/username/repo/blob/master"
+  repo_url: "https://github.com/lidaof/smaht-donor/blob/master"
   show_edit_link: true
 
 social_links:
   devstats: ""
   discord: ""
-  facebook: ""
+  facebook: "https://www.facebook.com/profile.php?id=100091872325711"
   flickr: ""
-  github: "https://github.com/cncf/dot-org-hugo-theme"
-  instagram: ""
+  github: "https://github.com/lidaof/smaht-donor"
+  instagram: "https://www.instagram.com/smahtnetwork/"
   landscape: ""
-  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation"
+  linkedin: "https://www.linkedin.com/groups/14287460/"
   mastodon: ""
   pinterest: ""
   rss: ""
@@ -31,10 +31,10 @@ social_links:
   stackoverflow: ""
   threads: ""
   twitter: ""
-  x: ""
-  youtube: ""
+  x: "https://x.com/SMaHTnetwork"
+  youtube: "https://www.youtube.com/@SMaHTnetwork"
 
 # Makes the header sticky on tall screens
 sticky_header: true
 # Enable search in header UI
-show_search: true
+show_search: false

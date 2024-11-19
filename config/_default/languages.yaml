@@ -5,7 +5,7 @@ en:
   copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Understanding Somatic Mosaicism"
   params:
-    description: "Understanding Somatic Mosaicism"
+    description: "SMaHT Family Donor Program"
     ### accessibility ###
     accessibility:
       skip_text: "Skip to content"
@@ -22,44 +22,44 @@ en:
   ### example menu showing children ###
   menu:
     main:
-    - identifier: "about"
-      name: "About"
-      url: "/example-page/"
+    - identifier: "understanding-somatic-mosaicism"
+      name: "Understanding Somatic Mosaicism"
+      url: "/understanding-somatic-mosaicism/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example External page"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 3
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
-    - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
+    # - identifier: "child-1"
+    #   name: "Example Child Page"
+    #   url: "/example-page/"
+    #   weight: 1
+    #   post: "Nulla consequat massa quis enim. Donec pede justo."
+    #   parent: "about"
+    # - identifier: "child-2"
+    #   name: "Example Child Page"
+    #   url: "/example-page/"
+    #   weight: 2
+    #   post: "Aenean commodo ligula get dolor. Aenean massa."
+    #   parent: "about"
+    # - identifier: "child-3"
+    #   name: "Example External page"
+    #   url: "https://cncf.io?ref=dot-org"
+    #   weight: 3
+    #   post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
+    #   parent: "about"
+    - identifier: "our-purpose"
+      name: "Our Purpose"
+      url: "/our-purpose/"
       weight: 2
     - identifier: "faq"
       name: "FAQs"
       url: "/faq/"
       weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
+    - identifier: "ethics-team"
+      name: "Ethics Team"
+      url: "/ethics-team/"
       weight: 4
-    - identifier: "example"
-      name: "External"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 5
+    # - identifier: "example"
+    #   name: "External"
+    #   url: "https://cncf.io?ref=dot-org"
+    #   weight: 5
 # es:
 #   languageName: Spanish
 #   contentDir: content/es
@@ -83,6 +83,6 @@ en:
 #       url: "/faq/"
 #       weight: 3
 #     - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
+      # name: "Blog"
+      # url: "/blog/"
+      # weight: 2

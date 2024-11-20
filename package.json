@@ -1,35 +1,35 @@
 {
-  "name": "smaht-donor-web",
-  "version": "1.0.0",
-  "description": "SMaHT family donor website",
-  "main": "none.js",
-  "scripts": {
-    "build": "hugo --theme=dot-org-hugo-theme",
-    "start": "hugo serve --logLevel info --configDir=config --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
-    "dev": "npm run dev:start",
-    "dev:start": "hugo serve --logLevel info --configDir=config --themesDir=../.. --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
-    "dev:start:with-pagefind": "hugo --baseURL=/ --themesDir=../.. --theme=dot-org-hugo-theme && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run dev:start",
-    "dev:build": "hugo --themesDir=../.. --theme=dot-org-hugo-theme"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cncf/dot-org-hugo-theme"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cncf/dot-org-hugo-theme/issues"
-  },
-  "homepage": "https://github.com/cncf/dot-org-hugo-theme#readme",
-  "dependencies": {
-    "autoprefixer": "^10.4.16",
-    "hugo-extended": "^0.126.0",
-    "netlify-cli": "^17",
-    "postcss": "^8.4.31",
-    "postcss-cli": "^11"
-  },
-  "devDependencies": {
-    "prettier": "^3.0.3"
-  }
+    "name": "smaht-donor-web",
+    "version": "1.0.0",
+    "description": "SMaHT family donor website",
+    "main": "none.js",
+    "scripts": {
+        "build": "hugo --theme=dot-org-hugo-theme --configDir=config",
+        "start": "hugo serve --logLevel info --configDir=config --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
+        "dev": "npm run dev:start",
+        "dev:start": "hugo serve --logLevel info --configDir=config --themesDir=../.. --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
+        "dev:start:with-pagefind": "hugo --baseURL=/ --themesDir=../.. --theme=dot-org-hugo-theme && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run dev:start",
+        "dev:build": "hugo --themesDir=../.. --theme=dot-org-hugo-theme"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lidaof/smaht-donor"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lidaof/smaht-donor/issues"
+    },
+    "homepage": "https://github.com/lidaof/smaht-donor#readme",
+    "dependencies": {
+        "autoprefixer": "^10.4.16",
+        "hugo-extended": "^0.126.0",
+        "netlify-cli": "^17",
+        "postcss": "^8.4.31",
+        "postcss-cli": "^11"
+    },
+    "devDependencies": {
+        "prettier": "^3.0.3"
+    }
 }

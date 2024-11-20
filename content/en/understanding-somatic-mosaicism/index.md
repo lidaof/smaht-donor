@@ -6,7 +6,6 @@ showHeader: false
 
 ## Understanding Somatic Mosaicism
 
-
 {{< columns count=2 >}}
 {{< column >}}
 {{< intro >}}
@@ -21,12 +20,10 @@ Somatic mosaicism describes a person’s pattern of DNA changes over time within
 {{< /column >}}
 {{< /columns >}}
 <!-- {{< youtube_enhanced id="-1WVFGEW-BU" >}} -->
+{{< img src="/images/Understanding_Somatic_Mosaicism/USM_2.jpeg" >}}
 {{< cards count=2 >}}
 {{< card >}}
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_1.jpeg" width="500px">}}
-{{< /card >}}
-{{< card >}}
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_2.jpeg" >}}
+{{< img src="/images/Understanding_Somatic_Mosaicism/USM_1.jpeg">}}
 {{< /card >}}
 {{< card >}}
 {{< img src="/images/Understanding_Somatic_Mosaicism/USM_3.jpeg" >}}

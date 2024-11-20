@@ -6,8 +6,6 @@ showHeader: false
 
 ## Our Purpose
 
-
-
 {{< intro >}}
 The SMaHT project would not be possible without the generous donor families who have provided such precious gifts to support this important work. We are grateful to them and their loved one’s legacy.
 {{< /intro >}}
@@ -22,7 +20,6 @@ Research like the SMaHT project could help us understand more about people’s g
 {{< /intro >}}
 {{< /column >}}
 {{< column >}}
-{{< spacer 50 >}}
 {{< img src="/images/Our_Purpose/SMaHT_FD Oragami Heart Logo.jpg" >}}
 {{< /column >}}
 {{< /columns >}}

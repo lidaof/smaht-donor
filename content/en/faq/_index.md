@@ -1,7 +1,8 @@
 ---
 title: "FAQs"
 description: "Frequently Asked Questions"
-
+showHeader: false
 ---
 
-Here are some frequently asked questions.
+## Frequently Asked Questions
+

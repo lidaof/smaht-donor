@@ -1,0 +1,69 @@
+{{ define "main" }}
+{{ .Content }}
+<h3>About The Project</h3>
+<div class="accordions">
+    {{ range first 2 .Pages }}
+    <div class="faq-item accordion">
+        <div class="faq__title accordion__title">
+            <h4>{{ .Title }}</h4>
+            <svg class="cross" xmlns="http://www.w3.org/2000/svg" width="27" height="26" viewBox="0 0 27 26">
+                <style>
+                    .color {
+                        fill: var(--link-color);
+                    }
+                </style>
+                <path class="color horizontal" d="M.5 10.92h26v4.16H.5z" />
+                <path class="color vertical" d="M11.42 26V0h4.16v26z" />
+            </svg>
+        </div>
+        <div class="faq__content accordion__content">
+            {{ .Content }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+<h3>Ethical, Legal, & Social Implications (ELSI) Team</h3>
+<div class="accordions">
+    {{ range last 3 (first 5 .Pages) }}
+    <div class="faq-item accordion">
+        <div class="faq__title accordion__title">
+            <h4>{{ .Title }}</h4>
+            <svg class="cross" xmlns="http://www.w3.org/2000/svg" width="27" height="26" viewBox="0 0 27 26">
+                <style>
+                    .color {
+                        fill: var(--link-color);
+                    }
+                </style>
+                <path class="color horizontal" d="M.5 10.92h26v4.16H.5z" />
+                <path class="color vertical" d="M11.42 26V0h4.16v26z" />
+            </svg>
+        </div>
+        <div class="faq__content accordion__content">
+            {{ .Content }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+<h3>Tissue Donation </h3>
+<div class="accordions">
+    {{ range last 5 .Pages }}
+    <div class="faq-item accordion">
+        <div class="faq__title accordion__title">
+            <h4>{{ .Title }}</h4>
+            <svg class="cross" xmlns="http://www.w3.org/2000/svg" width="27" height="26" viewBox="0 0 27 26">
+                <style>
+                    .color {
+                        fill: var(--link-color);
+                    }
+                </style>
+                <path class="color horizontal" d="M.5 10.92h26v4.16H.5z" />
+                <path class="color vertical" d="M11.42 26V0h4.16v26z" />
+            </svg>
+        </div>
+        <div class="faq__content accordion__content">
+            {{ .Content }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,32 @@
+:root {
+    --bg-color: #D0F4FF;
+    --primary-400: #FFB19A;
+}
+
+.content {
+    padding: 1rem;
+    background-color: var(--bg-color);
+}
+
+.footer {
+    background-color: white;
+    color: black;
+}
+
+.footer a {
+    color: black;
+}
+
+.main-menu-cta {
+    background-color: var(--primary-400);
+    color: black;
+}
+
+.accordions {
+    background-color: var(--white);
+}
+
+.accordions h4 {
+    text-transform: none;
+    font-weight: 700;
+}

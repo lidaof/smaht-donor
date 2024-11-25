@@ -36,4 +36,3 @@ Somatic mosaicism describes a person’s pattern of DNA changes over time within
 {{< img src="/images/Understanding_Somatic_Mosaicism/USM_5.png" >}}
 {{< /card >}}
 {{< /cards >}}
-{{< spacer 20 >}}

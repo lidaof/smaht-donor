@@ -2,7 +2,7 @@
 
 # Add custom assets relative to /static or via https
 logo_on_white: "/images/logo/logo.png"
-logo_on_black: "/images/logo/logo.png"
+logo_on_black: "/images/logo/logo-w.png"
 custom_js: []
 custom_css: ["css/custom.css"]
 

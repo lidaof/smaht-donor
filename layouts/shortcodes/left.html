@@ -1,0 +1,10 @@
+{{ $img := .Get "img" | default (.Get ' ') }}
+
+<div style="display: flex; gap: 1rem;">
+    <div style="width: 360px;">
+        <img src="{{$img}}">
+    </div>
+    <div>
+        {{ .Inner | markdownify  }}
+    </div>
+</div>

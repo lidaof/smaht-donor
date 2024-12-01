@@ -1,0 +1,15 @@
+{{ $img := .Get "img" | default (.Get ' ') }}
+{{ $name := .Get "name" | default "" }}
+{{ $title := .Get "title" | default "" }}
+{{ $desc := .Get "desc" | default "" }}
+
+<div style="display: flex; gap: 1rem;">
+    <div style="width: 240px;">
+        <img src="{{$img}}" alt="{{$name}}">
+    </div>
+    <div>
+        <div style="font-size: 1.4rem; font-weight: bold;">{{ $name }}</div>
+        <div style="font-size: 1.4rem;">{{ $title }}</div>
+        <div>{{ $desc }}</div>
+    </div>
+</div>

@@ -11,6 +11,7 @@
 .footer {
     background-color: white;
     color: black;
+    margin-top: 0;
 }
 
 .footer a {
@@ -29,4 +30,41 @@
 .accordions h4 {
     text-transform: none;
     font-weight: 700;
+    padding-left: 1rem;
+}
+
+.accordions .cross {
+    margin-right: 1rem;
+}
+
+.accordion__content p {
+    padding-left: 1rem;
+}
+
+blockquote {
+    text-align: center;
+    margin: 1rem auto;
+    background-color: var(--white);
+}
+
+blockquote footer {
+    font-weight: bold;
+}
+
+.column img{
+    display: block;
+    margin: auto;
+}
+
+
+.content > * {
+    max-width: 100%;
+}
+
+.intro2 {
+    font-size: 1.6rem;
+}
+
+.intro2 em {
+    text-decoration: underline;
 }

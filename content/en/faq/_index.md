@@ -5,4 +5,3 @@ showHeader: false
 ---
 
 ## Frequently Asked Questions
-

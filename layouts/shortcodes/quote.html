@@ -1,0 +1,7 @@
+{{ $word := .Get "word" | default (.Get ' ') }}
+{{ $name := .Get "name" | default "" }}
+
+<blockquote>
+    <p>{{ $word }}</p>
+    <footer>{{ $name }}</footer>
+</blockquote>

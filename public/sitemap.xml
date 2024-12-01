@@ -2,10 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://donor.smaht.org/faq/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://donor.smaht.org/faq/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://donor.smaht.org/faq/3/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/4/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/5/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/6/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/7/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/8/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/9/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/10/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/categories/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/community-voices/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/contact-us/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/faq/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/idecide-study/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/meet-the-team/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/our-mission/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/our-purpose/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/resources/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/tags/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/scientific-research-team/</loc>
+  </url><url>
+    <loc>https://donor.smaht.org/understanding-somatic-mosaicism/</loc>
   </url>
 </urlset>

@@ -23,4 +23,3 @@ showHeader: false
 {{< img src="/images/Scientific_Research_Team/SAM_5.JPG" >}}
 {{< /column >}}
 {{< /columns  >}}
-

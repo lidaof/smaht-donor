@@ -17,22 +17,12 @@ Somatic mosaicism describes a person’s pattern of DNA changes over time within
 {{< /column >}}
 {{< column >}}
 {{< spacer 50 >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-1WVFGEW-BU?si=D8iX7cBaHo5x_4vL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< img src="/images/Understanding_Somatic_Mosaicism/USM_1.jpeg">}}
+
 {{< /column >}}
 {{< /columns >}}
-<!-- {{< youtube_enhanced id="-1WVFGEW-BU" >}} -->
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_2.jpeg" >}}
-{{< cards count=2 >}}
-{{< card >}}
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_1.jpeg">}}
-{{< /card >}}
-{{< card >}}
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_3.jpeg" >}}
-{{< /card >}}
-{{< card >}}
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_4.png" >}}
-{{< /card >}}
-{{< card >}}
-{{< img src="/images/Understanding_Somatic_Mosaicism/USM_5.png" >}}
-{{< /card >}}
-{{< /cards >}}
+
+<div style="width: 600px; margin: auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1WVFGEW-BU?si=D8iX7cBaHo5x_4vL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>The NIH Common Fund’s SMaHT Network studies somatic mosaicism—DNA changes in cells over time—and its role in human biology and disease. By cataloging these changes, SMaHT aims to uncover their impact on development and conditions like cancer.</p>
+</div>

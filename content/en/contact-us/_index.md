@@ -9,7 +9,3 @@ showHeader: false
 ### General info 
 
 smaht@ndriresource.org
-
-### Ethical, Legal, & Social Implications (ELSI) Team
-
-### Scientific Process Information

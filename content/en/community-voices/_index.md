@@ -11,7 +11,9 @@ showHeader: false
 
 Stakeholders will be involved in the SMaHT study throughout all project phases, allowing for direct input on key decisions in a timely and responsive manner. Stakeholders will also inform the SMaHT Project on strategies that may allow for a greater diversity of participants, which may promote equity in the benefits of this project. Community engagement using the DEI 360⁰ approach offers a novel and unique opportunity to address underrepresentation in past genetics studies. To understand more about SMaHT’s DEI 360⁰ approach please visit [Our Mission](/our-mission/) page.
 
-{{< img src="/images/Community_Voices/QAImage1.png" >}}
+<div style="width: 560px; margin: auto">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DJeiaJ635YU?si=AfPdRKYhUDZKxDcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### SMaHT Community Advisory Board (CAB)
 

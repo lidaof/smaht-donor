@@ -9,7 +9,9 @@ showHeader: false
 
 {{< columns count=2 >}}
 {{< column >}}
-Losing a family member is one of the hardest events we can experience. Deciding whether or not to donate organs or tissues can also be hard. It is normal for people to benefit from extra support during or after these experiences. Below are some mental health resources that can be helpful. Please contact any of these organizations for help if you or someone you know could use extra support. If you or anyone you know is thinking about hurting themselves or anyone else, please immediately call 911 or go to the nearest emergency room before doing anything else. After calling 911 or going to the nearest emergency room, you can also call or text The Lifeline at 988. This is a free, confidential support resource for anyone who is experiencing thoughts about hurting themselves. This service operates **24** hours a day, **7** days a week, **365** days a year. The resources below are also available for additional help.
+Losing a family member is one of the hardest events we can experience. Deciding whether or not to donate organs or tissues can also be hard. It is normal for people to benefit from extra support during or after these experiences. Below are some mental health resources that can be helpful. Please contact any of these organizations for help if you or someone you know could use extra support. If you or anyone you know is thinking about hurting themselves or anyone else, please immediately call 911 or go to the nearest emergency room before doing anything else. After calling 911 or going to the nearest emergency room, you can also call or text The Lifeline at 988. 
+
+This is a free, confidential support resource for anyone who is experiencing thoughts about hurting themselves. This service operates **24** hours a day, **7** days a week, **365** days a year. The resources below are also available for additional help.
 {{< /column >}}
 {{< column >}}
 {{< img src="/images/Resources/Resources.jpeg" >}}

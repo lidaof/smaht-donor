@@ -1,6 +1,6 @@
 :root {
-    --bg-color: #D0F4FF;
-    --primary-400: #FFB19A;
+    --bg-color: #EFFBFF;
+    --primary-400: black;
 }
 
 .content {
@@ -9,7 +9,7 @@
 }
 
 .footer {
-    background-color: white;
+    background-color: #F1F1F1;
     color: black;
     margin-top: 0;
 }
@@ -67,4 +67,18 @@ blockquote footer {
 
 .intro2 em {
     text-decoration: underline;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.main-menu-cta {
+    color: unset;
+    background-color: unset;
+}
+
+.button.tertiary {
+    background-color: unset;
 }

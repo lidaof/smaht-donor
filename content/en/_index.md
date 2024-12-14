@@ -6,7 +6,7 @@ showHeader: false
 ---
 
 {{< welcome >}}
-Welcome to the SMaHT Family Donor Program
+Welcome to the SMaHT Family Website
 {{< /welcome >}}
 
 {{< img src="/images/Home/SMaHT_Family_graphic_1.jpg" loading="eager" >}}

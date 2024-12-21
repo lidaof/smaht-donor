@@ -40,7 +40,7 @@ en:
     - identifier: "resources"
       name: "Resources"
       url: "/resources/"
-      weight: 2
+      weight: 3
       # post: "Nulla consequat massa quis enim. Donec pede justo."
       # parent: "about"
     # - identifier: "child-2"
@@ -65,9 +65,9 @@ en:
       url: "/faq/"
       weight: 4
     - identifier: "dei"
-      name: "DEI"
+      name: "Ethics & Equity"
       url: "#"
-      weight: 3
+      weight: 2
     - identifier: "our-mission"
       name: "Our Mission"
       url: "/our-mission/"
@@ -84,7 +84,7 @@ en:
       weight: 3
       parent: "dei"
     - identifier: "idecide-study"
-      name: "IDECIDE STUDY"
+      name: "IDECIDE Study"
       url: "/idecide-study/"
       weight: 4
       parent: "dei"

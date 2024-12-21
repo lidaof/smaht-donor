@@ -51,13 +51,13 @@ blockquote footer {
     font-weight: bold;
 }
 
-.column img{
+.column img {
     display: block;
     margin: auto;
 }
 
 
-.content > * {
+.content>* {
     max-width: 100%;
 }
 
@@ -75,10 +75,48 @@ img {
 }
 
 .main-menu-cta {
-    color: unset;
-    background-color: unset;
+    background-color: #FFB19A;
+}
+
+.main-menu-cta:hover {
+    background-color: #FFB19A;
 }
 
 .button.tertiary {
-    background-color: unset;
+    background-color: #FFB19A;
+}
+
+.button.tertiary:hover {
+    background-color: #FFB19A;
+}
+
+.goog-te-gadget-simple {
+    background-color: unset !important;
+}
+
+.purpose h3 {
+    text-align: center;
+}
+
+.goog-te-gadget-simple img {
+    display: inline;
+}
+
+#google_translate_element {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.to-main {
+    margin: auto;
+    display: block;
+}
+.to-main a {
+    font-size: 1.4rem;
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    margin: auto;
 }

@@ -20,8 +20,6 @@ Please contact any of these organizations for help if you or someone you know co
 
 ## Family Grief Resources
 
-Losing a family member is one of the hardest events we can experience. Deciding whether or not to donate organs or tissues can also be hard. It is normal for people to benefit from extra support during or after these experiences. Below are some mental health resources that can be helpful. Please contact any of these organizations for help if you or someone you know could use extra support."
-
 #### SAMHSA’s National Helpline (800) 662-HELP (4357)
 
 This is a free, confidential resource that operates 24 hours a day, 7 days a week, 365 days a year. This service is part of the U.S. National Institute of Mental Health. This service can offer referrals and information regarding mental health and/or substance abuse.

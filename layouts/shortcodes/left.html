@@ -1,8 +1,9 @@
 {{ $img := .Get "img" | default (.Get ' ') }}
+{{ $alt := .Get "alt" | default "" }}
 
 <div style="display: flex; gap: 1rem;">
     <div style="width: 360px;">
-        <img src="{{$img}}">
+        <img src="{{$img}}" alt="{{$alt}}">
     </div>
     <div>
         {{ .Inner | markdownify  }}

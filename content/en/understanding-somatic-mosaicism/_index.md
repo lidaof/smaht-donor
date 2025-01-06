@@ -24,5 +24,7 @@ Somatic mosaicism describes a person’s pattern of DNA changes over time within
 
 <div style="width: 600px; margin: auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-1WVFGEW-BU?si=D8iX7cBaHo5x_4vL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>The NIH Common Fund’s SMaHT Network studies somatic mosaicism—DNA changes in cells over time—and its role in human biology and disease. By cataloging these changes, SMaHT aims to uncover their impact on development and conditions like cancer.</p>
+{{< smaller >}}
+The NIH Common Fund’s SMaHT Network studies somatic mosaicism—DNA changes in cells over time—and its role in human biology and disease. By cataloging these changes, SMaHT aims to uncover their impact on development and conditions like cancer.
+{{< /smaller >}}
 </div>

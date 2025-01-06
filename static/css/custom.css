@@ -120,3 +120,7 @@ img {
     text-decoration: none;
     margin: auto;
 }
+
+.content h2 {
+    text-align: center;
+}

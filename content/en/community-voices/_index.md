@@ -13,6 +13,9 @@ Stakeholders will be involved in the SMaHT study throughout all project phases, 
 
 <div style="width: 560px; margin: auto">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJeiaJ635YU?si=AfPdRKYhUDZKxDcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< smaller >}}
+Learn how the SMaHT Network prioritizes community engagement and enhances diversity, equity, and inclusion (DEI) at every level of its research. Click the image above to hear an ELSI team member explain why DEI and stakeholder collaboration are essential to advancing the network’s mission.
+{{< /smaller >}}
 </div>
 
 ### SMaHT Community Advisory Board (CAB)

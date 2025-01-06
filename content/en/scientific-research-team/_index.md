@@ -11,7 +11,7 @@ The journey of groundbreaking research begins with the generosity of donors and 
 
 {{< quote word="The opportunity to participate in the SMaHT initiative aligns with LifeGift’s mission of supporting medical advancement through the recovery of organs and tissues for clinical research..." name="Kevin Myer, President and CEO of LifeGift.">}}
 
-{{< img src="OPOGraphicNEW700x500.png" >}}
+{{< img src="OPOGraphicNEW700x500.png" >}} alt=”Collage of LifeGift, Gift of Life Donor Program, and Connect Life logos”>}}
 
 {{< quote word="Gift of Life Donor Program has championed medical research and scientific discovery since the founding of our program nearly 50 years ago. We evaluate every organ and tissue donor as a potential donor for research and are proud to continue our decades-long partnership with NDRI as part of the SMaHT Network." name="CPTC, President and CEO of the Gift of Life Donor Program">}}
 
@@ -19,9 +19,9 @@ The extraordinary donations serve as the foundation for the many diverse researc
 
 {{< quote word="For more than 25 years, ConnectLife has been committed to helping donors and their families leave a meaningful legacy through donation to research with NDRI. We are thrilled to be part of the Somatic Mosaicism Across Human Tissues project and have high hopes that we can continue to play a role in investigating new treatments and cures for an array of diseases" name="Kevin Gramlich CEO of ConnectLife">}}
 
-{{< img src="SMaHTTeams1500x1000.png" >}}
+{{< img src="SMaHTTeams1500x1000.png" >}} alt=” Graphic illustrating the roles of the SMaHT team and the various centers, including responsibilities and functions within the network.”>}}
 
-{{< img src="SMaHT24AnnualMeeting.gif" >}}
+{{< img src="SMaHT24AnnualMeeting.gif" >}} alt=” GIF showcasing images of SMaHT network members engaging at the 2024 Annual Meeting”>}}
 
 GIF showcasing a series of images featuring SMaHT network members engaging at the 2024 Annual Meeting. The images highlight group discussions, presentations, and candid moments of collaboration and connection
 

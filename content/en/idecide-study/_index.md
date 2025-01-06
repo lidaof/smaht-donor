@@ -7,7 +7,7 @@ showHeader: false
 
 ## IDECIDE STUDY
 
-{{< left img="iStock-165932624.jpg" alt="illustration of multicolored arms and hands formed in a heart shape" >}}
+{{< left img="iStock-165932624.jpg" alt="illustration of multicolored arms and hands formed in a heart shape" >}} alt="illustration of multicolored arms and hands formed in a heart shape”>}}
 
 The ELSI (“Ethical, Legal, and Social Implications” of donating for genetic research) team leads a substudy of the SMaHT project called, “Inclusion of Diverse Perspectives to Inform Ethical and Social Considerations in Donation of Tissue for Genomic Research in End-of-Life Discussions (I-DECIDE).”
 

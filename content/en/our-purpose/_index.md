@@ -21,7 +21,7 @@ Research like the SMaHT project could help us understand more about people’s g
 {{< /intro >}}
 {{< /column >}}
 {{< column >}}
-{{< img src="/images/Our_Purpose/SMaHT_FD Oragami Heart Logo.jpg" >}}
+{{< img src="/images/Our_Purpose/SMaHT_FD Oragami Heart Logo.jpg" alt="SMaHT Family Donor logo featuring two hands holding an origami heart with the text Somatic Mosaicism Across Human Tissues" >}}
 {{< /column >}}
 {{< /columns >}}
 
@@ -32,7 +32,7 @@ Research like the SMaHT project could help us understand more about people’s g
 {{< columns count=3 >}}
 {{< column >}}
 
-{{< img src="samplecollection.png" >}}
+{{< img src="samplecollection.png"  alt="illustration of an icon depicting cells" >}}
 
 ### Sample Collection
 
@@ -40,7 +40,7 @@ The SMaHT project will collect samples from multiple types of tissues and organs
 {{< /column >}}
 {{< column >}}
 
-{{< img src="scientificanalysis.png" >}}
+{{< img src="scientificanalysis.png" alt="illustration of an icon depicting analysis showing a magnifying glass next to a document" >}}
 
 ### Scientific Analysis
 Scientists will analyze the donated tissues and organs to understand the donor's unique genetic makeup, including their somatic (or non-inherited) gene changes. Donors’ genetic information will be stored in an anonymous genetic Database that also includes some information about the donor’s medical/clinical history. Storing donors’ genetic information in a genetic Database will create an important resource for scientists to help them understand patterns of gene changes across many donors’ different tissues.
@@ -48,7 +48,7 @@ Scientists will analyze the donated tissues and organs to understand the donor's
 {{< /column >}}
 {{< column >}}
 
-{{< img src="geneticdatabasebiobank.png" >}}
+{{< img src="geneticdatabasebiobank.png" alt="illustration of an icon depicting a database on a computer monitor" >}}
 
 ### Genetic Database and Biobank
 

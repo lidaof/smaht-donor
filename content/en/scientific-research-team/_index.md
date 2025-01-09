@@ -11,7 +11,7 @@ The journey of groundbreaking research begins with the generosity of donors and 
 
 {{< quote word="The opportunity to participate in the SMaHT initiative aligns with LifeGift’s mission of supporting medical advancement through the recovery of organs and tissues for clinical research..." name="Kevin Myer, President and CEO of LifeGift.">}}
 
-{{< img src="OPOGraphicNEW700x500.png"  alt="Collage of LifeGift, Gift of Life Donor Program, and Connect Life logos" >}}
+{{< img src="OPOGraphicFINAL.png"  alt="Collage of LifeGift, Gift of Life Donor Program, and Connect Life logos" >}}
 
 {{< quote word="Gift of Life Donor Program has championed medical research and scientific discovery since the founding of our program nearly 50 years ago. We evaluate every organ and tissue donor as a potential donor for research and are proud to continue our decades-long partnership with NDRI as part of the SMaHT Network." name="CPTC, President and CEO of the Gift of Life Donor Program">}}
 
@@ -27,10 +27,20 @@ GIF showcasing a series of images featuring SMaHT network members engaging at th
 
 ## SMaHT Scientific Website
 
-{{< img src="car-44144_640.png" >}}
-
-**Disclaimer**: Content on this website is intended for researchers and scientists and contains information and images that could be uncomfortable for donor families.
-
+{{< intro >}}
 Click the link below to be directed to the SMaHT scientific website.
+{{< /intro >}}
 
-<button class="to-main">[SMaHT Scientific Website](https://smaht.org)</button>
+<button id="id_reachout" class="to-main" onClick="showModal();">SMaHT Scientific Website</button>
+
+<div id="myModal" class="modal">
+    <!-- Modal content -->
+        <div><img src="car-44144_640.png"></div>
+            <div class="intro">
+            <p><strong><em>Disclaimer</em></strong>: </p>
+            <p >Content on the SMaHT Scientific website is intended for researchers and scientists and contains information and images that could be uncomfortable for donor families.</p>
+            <button class="to-main"><a href="https://smaht.org">Proceed to SMaHT Scientific Website</a></button>
+            <button class="close to-main">Stay on SMaHT Family Donor Website</button>
+            </div>
+        </div>
+</div>

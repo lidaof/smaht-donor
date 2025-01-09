@@ -23,7 +23,7 @@ The extraordinary donations serve as the foundation for the many diverse researc
 
 {{< img src="SMaHT24AnnualMeeting.gif" alt="GIF showcasing images of SMaHT network members engaging at the 2024 Annual Meeting" >}}
 
-GIF showcasing a series of images featuring SMaHT network members engaging at the 2024 Annual Meeting. The images highlight group discussions, presentations, and candid moments of collaboration and connection
+A series of images featuring SMaHT network members engaging at the 2024 Annual Meeting. The images highlight group discussions, presentations, and candid moments of collaboration and connection.
 
 ## SMaHT Scientific Website
 

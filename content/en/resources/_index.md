@@ -20,7 +20,7 @@ Please contact any of these organizations for help if you or someone you know co
 
 ## Family Grief Resources
 
-#### SAMHSA’s National Helpline (800) 662-HELP (4357)
+#### [SAMHSA’s National Helpline](https://www.samhsa.gov/find-help/helplines/national-helpline)
 
 This is a free, confidential resource that operates 24 hours a day, 7 days a week, 365 days a year. This service is part of the U.S. National Institute of Mental Health. This service can offer referrals and information regarding mental health and/or substance abuse.
 

@@ -12,12 +12,18 @@
     background-color: #F1F1F1;
     color: black;
     margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .footer a {
     color: black;
 }
 
+.footer__menu-cta-wrapper{
+    margin-bottom: 20px;
+    display: none;
+}
 .main-menu-cta {
     background-color: var(--primary-400);
     color: black;
@@ -241,4 +247,12 @@ img {
 .left-column {
     font-size: 2rem;
 
+}
+
+.columns {
+    margin-top: 0;
+}
+
+.column p {
+    margin-top: 0;
 }

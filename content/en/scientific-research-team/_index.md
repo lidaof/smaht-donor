@@ -21,15 +21,18 @@ The extraordinary donations serve as the foundation for the many diverse researc
 
 {{< img src="SMaHTTeams1500x1000.png" alt="Graphic illustrating the roles of the SMaHT team and the various centers, including responsibilities and functions within the network." >}}
 
+<div style="width:90%">
 {{< img src="SMaHT24AnnualMeeting.gif" alt="GIF showcasing images of SMaHT network members engaging at the 2024 Annual Meeting" >}}
-
+<div style="max-width:90%;margin:auto">
+{{< smaller >}}
 A series of images featuring SMaHT network members engaging at the 2024 Annual Meeting. The images highlight group discussions, presentations, and candid moments of collaboration and connection.
+{{< /smaller >}}
+</div>
+</div>
 
 ## SMaHT Scientific Website
 
-{{< intro >}}
 Click the link below to be directed to the SMaHT scientific website.
-{{< /intro >}}
 
 <button id="id_reachout" class="to-main" onClick="showModal();">SMaHT Scientific Website</button>
 

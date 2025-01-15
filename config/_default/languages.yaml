@@ -13,11 +13,11 @@ en:
     #   help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Contact Us"
-      link: "/contact-us/"
+      # text: "Contact Us"
+      # link: "/contact-us/"
     footer_cta:
-      text: "Contact Us"
-      link: "/contact-us/"
+      # text: "Contact Us"
+      # link: "/contact-us/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
@@ -64,6 +64,10 @@ en:
       name: "FAQs"
       url: "/faq/"
       weight: 4
+    - identifier: "contact-us"
+      name: "Contact Us"
+      url: "/contact-us/"
+      weight: 5
     - identifier: "dei"
       name: "Ethics & Equity"
       url: "#"

@@ -30,7 +30,7 @@ By creating CAB networks across the U.S. and connecting with them routinely thro
 
 {{< columns count=2 >}}
 {{< column >}}
-The study also has a group of stakeholders who are specialists in a range of relevant areas called the MDSC. The MDSC and CAB continually work together to inform and advise each phase of the SMaHT study. The MDSC is comprised of professionals (e.g., physicians, psychologists, and pastoral care providers) and other stakeholders (e.g., community members at large) who represent diverse professional and cultural backgrounds and experiences.
+The study also has a group of stakeholders who are specialists in a range of relevant areas called the MDSC. The MDSC and CAB continually work together to inform and advise each phase of the SMaHT study. The MDSC is comprised of professionals (e.g., physicians, psychologists, geneticists, genetic counselors, and pastoral care providers) and other stakeholders (e.g., community members at large) who represent diverse professional and cultural backgrounds and experiences.
 
 The MDSC is a racially, ethnically, geographically, and gender-diverse group of people who reflect a range of perspectives, ideas, and voices. Leveraging the knowledge and skills of this team enables us to provide the wider SMaHT team with insights and guidance.
 {{< /column >}}

@@ -10,7 +10,7 @@ showHeader: false
 
 #### Ethical, Legal, and Social Implications of donating for genetic research team
 
-The SMaHT ELSI team is led by researchers at the Johns Hopkins School of Medicine. ELSI stands for “Ethical, Legal, and Social Implications” of donating for genetic research. The ELSI team aims to address gaps in genetic research amongst under-represented groups using a unique approach called Diversity, Equity, and Inclusion 360⁰. Using this model, the ELSI team will work within all areas of the SMaHT consortium and with community stakeholders. To find out more about the work the ELSI team is doing please review the other pages on this website.  
+The SMaHT ELSI team is led by researchers at the Johns Hopkins School of Medicine. ELSI stands for “Ethical, Legal, and Social Implications” of donating for genetic research. The ELSI team aims to address gaps in genetic research among under-represented groups using a unique approach called Diversity, Equity, and Inclusion 360⁰. Using this model, the ELSI team will work within all areas of the SMaHT consortium and with community stakeholders. To find out more about the work the ELSI team is doing please review the other pages on this website.  
 
 {{< br >}}
 

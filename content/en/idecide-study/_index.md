@@ -21,10 +21,6 @@ The ELSI (“Ethical, Legal, and Social Implications” of donating for genetic 
 
 {{< /left >}}
 
-{{< purple >}}
-**I-DECIDE**: ***I***nclusion of ***D***iverse Perspectives to Inform ***E***thical and Social ***C***onsiderations ***i***n ***D***onation of Tissue for Genomic Research in ***E***nd-of-Life Discussions
-{{< /purple >}}
-
 ### Understanding Tissue Requesters’ Experiences, Opinions, and Expectations about Discussing Tissue Donation for Research with Families
 
 This study is trying to learn about tissue requesters’ experiences and opinions related to approaching families about post-mortem tissue donation for research after their loved one has passed. We want to learn directly from people who do this work. We think this is important so we can better support tissue requesters and families in future efforts related to end-of-life donation and genomic research.

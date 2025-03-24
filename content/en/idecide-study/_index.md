@@ -9,14 +9,14 @@ showHeader: false
 
 {{< left img="iStock-165932624.jpg" alt="illustration of multicolored arms and hands formed in a heart shape" >}}
 
-The ELSI (“Ethical, Legal, and Social Implications” of donating for genetic research) team leads a substudy of the SMaHT project called, “Inclusion of Diverse Perspectives to Inform Ethical and Social Considerations in Donation of Tissue for Genomic Research in End-of-Life Discussions (I-DECIDE).”
+The ELSI (“Ethical, Legal, and Social Implications” of donating for genetic research) team leads a substudy of the SMaHT project called IDECIDE.
 
 **We want to know…**
 
 * How do families decide whether to donate?
 * How do tissue requesters do their work?
 * What supports/resources would help families and tissue requesters?
-* How could we better respect families, including their culture, values, beliefs, and grief?
+* How could we better respect families, including their values, beliefs, and grief?
 * What barriers have caused genetic research to have limited diversity in the past and how can we prevent those barriers now?
 
 {{< /left >}}

@@ -25,4 +25,4 @@ Click the image above to watch an ELSI team member explain why the SMaHT project
 
 The SMaHT study will employ an innovative framework called ELSI 360°. This model reflects the goal to seek and include all necessary stakeholders at all stages of the research study with a focus on engaging with community stakeholders as well as scientific and organ procurement teams. With this model, the SMaHT study will pioneer how stakeholder feedback can be integrated into study processes and operations in real time to ensure that donor experiences are prioritized while also assuring scientific study goals are met. The figure below depicts how the model within SMaHT is organized and the key stakeholder groups that will be engaged.
 
-{{< img src="SMaHTDEIgraphic700x500.png" width="700" alt="infographic depicting key stakeholder group engagement and how the SMaHT 360 model is operationalized" >}}
+{{< img src="ELSI360graphic700x500.png" width="700" alt="infographic depicting key stakeholder group engagement and how the SMaHT 360 model is operationalized" >}}

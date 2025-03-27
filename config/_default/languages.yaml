@@ -82,9 +82,9 @@ en:
       url: "/meet-the-team/"
       weight: 2
       parent: "dei"
-    - identifier: "community-voices"
-      name: "Community Voices"
-      url: "/community-voices/"
+    - identifier: "partner-perspectives"
+      name: "Partner Perspectives"
+      url: "/partner-perspectives/"
       weight: 3
       parent: "dei"
     - identifier: "idecide-study"

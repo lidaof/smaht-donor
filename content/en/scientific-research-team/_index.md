@@ -10,7 +10,9 @@ showHeader: false
 The SMaHT Network comprises several specialized teams working together to drive the project forward and achieve its mission. Each team plays a vital role, in securing the successful collection, analysis, and sharing of data. The Coordinating Center manages program activities and outreach, while the Tissue Procurement Center oversees the collection and distribution of donor tissues. Within this, the ELSI Team provides guidance on ethical, legal, and social considerations. The Technology and Tool Development Team focuses on advancing methods for detecting DNA changes, and the Genome Characterization Centers generate and analyze data from collected samples. Finally, the Data Analysis Center ensures that the resulting somatic variant catalog is high-quality, accessible, and valuable for the broader research community. Together, these teams collaborate to ensure that SMaHT’s efforts are integrated, efficient, and impactful in advancing our understanding of somatic mosaicism.
 
 {{< img src="SMaHTTeamsv3.png" alt="Graphic illustrating the roles of the SMaHT team and the various centers, including responsibilities and functions within the network." >}}
+<br/>
 
+<p align="center">
 <div style="width:90%">
 {{< img src="SMaHT24AnnualMeetingv2.gif" alt="GIF showcasing images of SMaHT network members engaging at the 2024 Annual Meeting" >}}
 <div style="max-width:90%;margin:auto">

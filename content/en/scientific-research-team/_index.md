@@ -27,7 +27,7 @@ The journey of groundbreaking research begins with the generosity of donors and 
 
 {{< img src="OPOGraphicFINAL.png"  alt="Collage of LifeGift, Gift of Life Donor Program, and Connect Life logos" >}}
 
-{{< quote word="Gift of Life Donor Program has championed medical research and scientific discovery since the founding of our program nearly 50 years ago. We evaluate every organ and tissue donor as a potential donor for research and are proud to continue our decades-long partnership with NDRI as part of the SMaHT Network." name="CPTC, President and CEO of the Gift of Life Donor Program">}}
+{{< quote word="Gift of Life Donor Program has championed medical research and scientific discovery since the founding of our program nearly 50 years ago. We evaluate every organ and tissue donor as a potential donor for research and are proud to continue our decades-long partnership with NDRI as part of the SMaHT Network." name="Richard Hasz, Jr., MFS, CPTC, President and CEO of the Gift of Life Donor Program">}}
 
 The extraordinary donations serve as the foundation for the many diverse research groups within the SMaHT project, fueling innovations that advance medical science. The SMaHT research team includes over 200 members from across the United States. Explore the graphic below to learn more about the different types of centers and groups that make up the SMaHT Scientific Team.
 

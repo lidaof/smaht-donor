@@ -23,7 +23,7 @@ Research like the SMaHT project could help us understand more about people’s g
 {{< /column >}}
 {{< /columns >}}
 
-### Key Goals
+<!-- ### Key Goals
 
 <div class="purpose">
 
@@ -55,4 +55,9 @@ The genetic Database and Biobank will be available to approved researchers for u
 {{< /columns >}}
 {{< spacer 20 >}}
 
-</div>
+</div> -->
+
+## Donation Roadmap
+
+{{< img src="DonationRoadmapv6.jpg" alt="Donation Roadmap" >}}
+

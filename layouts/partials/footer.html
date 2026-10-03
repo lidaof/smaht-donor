@@ -54,13 +54,12 @@
             {{ end }}
             {{ end }}
         </div>
-
         <div class="footer__logo-social-wrapper">
             {{ with .Site.Params.logo_on_black }}
             <a class="logo-link" href="{{ "/" | absLangURL }}">
                 <img loading="lazy" class="logo" width="150" height="40" src="{{ . | absURL }}" alt="{{ $.Site.Title | safeHTMLAttr }}"></a>
-            {{ end }}
-
+                {{ end }}
+                <span><a target="_blank" href="https://forms.gle/U5JcLm7GB9eyUZrS6">Send Feedback</a></span>
             {{- partial "footer/social-links.html" . -}}
         </div>
     </div>
@@ -71,7 +70,7 @@
 <script defer src="{{ $js.Permalink }}"></script>
 
 {{/* Theme: FAQ */}}
-{{ if and (eq .Type "faq") (eq .Kind "section") }}
+{{ if and (or (eq .Type "faq") (eq .Type "our-purpose")) (eq .Kind "section") }}
 {{ $js := resources.Get "js/accordion.js" }}
 <script defer src="{{ $js.Permalink }}"></script>
 <script>
